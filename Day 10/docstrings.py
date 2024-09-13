@@ -7,6 +7,9 @@ def format_name(f_name,l_name):
 format_name("a","b")
 
 
+
+# prints 15
+
 def outer_function(a, b):
     def inner_function(c, d):
         return c + d
