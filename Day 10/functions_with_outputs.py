@@ -47,3 +47,8 @@ print(output)
 
 
 
+def addition(n1,n2):
+    return n1 + n2
+
+# you can change the name of the function with the following
+my_favourite_operation = addition
